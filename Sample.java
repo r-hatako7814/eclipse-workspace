@@ -1,11 +1,19 @@
 package jp.learningdesign.javastudy;
 
 public class Sample {
-
+/*
+ * Sammpleは、"Hello Eclipse!"と表示するプログラムです。
+ */
+	
+/** Javadoc形式
+ * author:Hata Ryuichiro	
+ * @param args
+ */
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
+		// 次の行で、コンソールに文字列を出力します。
 		System.out.println("こんにちはエクリプス");
-
 	}
-
+    public static void main1(String[] args) {
+    	System.out.println("おはよう"+"こんにちは");
+    }
 }
