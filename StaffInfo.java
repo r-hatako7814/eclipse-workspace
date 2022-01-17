@@ -16,9 +16,11 @@ public class StaffInfo {
 		// TODO 自動生成されたメソッド・スタブ
 		Staff yamada = new Staff();
 		yamada.name = "Taro Yamada";
-
+        
 		yamada.sayhello();
-//		System.out.println(yamada.name);
+		
+		yamada.email = "123456@gmail.com";
+		System.out.println(yamada.email);
 
 	}
 
