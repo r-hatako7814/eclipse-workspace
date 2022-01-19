@@ -11,7 +11,7 @@ public class Sample {
  */
 	public static void main(String[] args) {
 		// 次の行で、コンソールに文字列を出力します。
-		System.out.println("こんにちはエクリプス");
+		System.out.println("Hello Ecripse!\nIt's Tuesday today.\n今日は火曜日です。");
 	}
     public static void main1(String[] args) {
     	System.out.println("おはよう"+"こんにちは");
