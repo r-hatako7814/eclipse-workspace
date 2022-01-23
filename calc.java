@@ -11,6 +11,7 @@ public class calc {
 		System.out.println(a*b);
 		System.out.println(a/b);
 		System.out.println(a%b);
+		System.out.println(a+b-b);
 
 	}
 
